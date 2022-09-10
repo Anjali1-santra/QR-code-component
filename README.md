@@ -21,7 +21,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 ### Links
 
 - Solution URL: (https://github.com/Anjali1-santra/QR-code-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://anjali-qr-code-component.netlify.app)
 
 ### Built with
 
