@@ -16,7 +16,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ### Screenshot
 
-![Screenshot](images\Screenshot.png)
+![Screenshot](.\images\Screenshot.png)
 
 ### Links
 
