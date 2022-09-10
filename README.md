@@ -16,7 +16,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ### Screenshot
 
-![Screenshot](.\images\Screenshot.png)
+![Screenshot](https://github.com/Anjali1-santra/QR-code-component/blob/main/images/Screenshot%20.png)
 
 ### Links
 
