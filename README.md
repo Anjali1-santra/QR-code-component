@@ -34,4 +34,4 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ## Author
 
-- Frontend Mentor - [@Anjali1-santra](https://www.frontendmentor.io/profile/@Anjali1-santra)
+- Frontend Mentor - [@Anjali1-santra](https://www.frontendmentor.io/profile/Anjali1-santra)
